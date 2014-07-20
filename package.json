@@ -1,0 +1,21 @@
+{
+  "name": "angular-di-demo",
+  "version": "0.0.0",
+  "description": "Testing angular di and ES6 with traceur and node",
+  "repository": "git@github.com:joerx/node-es6-di.git",
+  "main": "index.js",
+  "dependencies": {
+    "di": "^2.0.0-pre-9",
+    "traceur-runtime": "0.0.43"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-traceur": "^0.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joerg Henning",
+  "license": "ISC"
+}
